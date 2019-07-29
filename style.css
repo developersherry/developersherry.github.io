@@ -70,10 +70,9 @@
   float: right;
 }
 .app-pic img{
-  width: 100%;
-  margin-top: -20px;
-  padding-left: 50px;
-  padding-top: 50px;
+  width: 600px;
+  height: 400px;
+  border-radius: 10px;
 }
 .playbtn{
   margin-left: 40px;
